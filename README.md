@@ -95,7 +95,7 @@ This project demonstrates skills in **data cleaning, visualization, and storytel
 
 ## 👨‍💻 Author
 **Sai Kumar Reddy N**  
-📧 Email: [your-email@example.com]  
+📧 Email: [saimanikya8152@gmail.com.com]  
 💼 [LinkedIn Profile](https://linkedin.com/in/thesaireddy20)  
 💻 [GitHub Profile](https://github.com/thesaireddy20)
 
